@@ -2,15 +2,15 @@ section{
     width: 600px;
     height: 600px;
     text-align: center;
-    border: 15px solid black;
+    border: 20px solid black;
 }
 
 img{
     width: 200px;
     height: 200px;
     background-color: lightblue;
-    
-    padding: 44px;
-    margin: 4px;
+    padding: 20x;
+    margin-top: 50px;
+    border: 10px solid black;
     
 }
